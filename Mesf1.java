@@ -1,6 +1,8 @@
- public class {
-  public static void main(String[] Args){
+ class  Gretting {
+   public static void main(String[] Args){
   
-   System.out.println("This is test on how to use GitHub");
-   }
+    String Hello ="this is test on how to use Github";
+    System.out.println(hello);
+       
+     }
   }
